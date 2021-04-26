@@ -1,0 +1,17 @@
+{
+    "name": "slzmaria/homework",
+    "type": "project",
+    "description": "Practising nea knowledge",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Slizovskaya Maria",
+            "email": "maria.slizovskaya@gmail.com"
+        }
+    ],
+
+    "require": {
+        "vendor/package": ">=1.1", 
+       }
+
+}
